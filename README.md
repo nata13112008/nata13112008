@@ -1,4 +1,4 @@
-## Hi there 👋
+## bem vindo ao meu pirfil 👋
 
 <!--
 **nata13112008/nata13112008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+meu nome e natãnael
+
+estou estudando na alura
+
+estou me desenvolvendo na linguagem javaScript
+
+ultilizo esse espaço para a minha organizaçao e compartilhamento dos meus projetos desenvolvidos 
+
+você pode entrar em contato comigo
+
+0000109505448xsp@al.educacao.sp.gov.br
